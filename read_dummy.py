@@ -1,7 +1,3 @@
-friend on congrats
-successfully really parsing
-super you winner
-
 with open('dummy.txt', 'r') as file_object:
     content = file_object.read()
     print(content)
